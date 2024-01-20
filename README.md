@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JCfuentes16
-- 👀 I’m interested in ]Programming Language
+- 👀 I’m interested in Programming Language
 - 🌱 I’m currently learning Programming Language
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
